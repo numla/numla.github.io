@@ -2,7 +2,6 @@
 layout: frontpage
 ---
 
-## Welcome to my website
+## List of talks
 
-This is the place where I share my ideas on topics like [Paracraft](http://www.paracraft.cn) software design, artificial intelligence and education. 
-Feel free to send me emails or join our team. 
+Here are the last talks of our seminars and corresponding materials. You can easily sort it via themes.
