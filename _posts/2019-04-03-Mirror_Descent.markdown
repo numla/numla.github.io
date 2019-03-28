@@ -2,7 +2,7 @@
 layout: post
 title:  "Mirror Descent: from theory to practice."
 date:   2019-04-03 15:14:54
-categories: Optimization, Deep_Learning
+categories: Optimization Deep_Learning
 comments: true
 ---
 
