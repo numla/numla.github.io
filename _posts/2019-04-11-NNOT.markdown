@@ -1,0 +1,16 @@
+---
+layout: post
+title:  "Recent Works on Optimal Transport"
+date:   2019-04-11 15:14:54
+categories: Transport Optimization
+comments: true
+---
+
+# Talgat Daulbaev
+
+![](/files/190411/profile.jpg)
+
+[Presentation](/files/190411/presentation.pdf)
+
+[Author's mail](mailto:t.daulbaev@skoltech.ru)
+
