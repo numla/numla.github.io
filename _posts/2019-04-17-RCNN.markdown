@@ -1,0 +1,16 @@
+---
+layout: post
+title:  "Faster R-CNN: code approach"
+date:   2019-04-17 15:14:54
+categories: Deep_Learning, PyTorch
+comments: true
+---
+
+# Evgeny Ponomarev
+
+![](/files/190417/profile.jpg)
+
+[Presentation](/files/190417/presentation.pdf)
+
+[Author's mail](https://www.linkedin.com/in/evgps/)
+
