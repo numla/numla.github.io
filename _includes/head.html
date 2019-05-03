@@ -1,0 +1,27 @@
+<head>
+	<!-- Global site tag (gtag.js) - Google Analytics -->
+	<script async src="https://www.googletagmanager.com/gtag/js?id=UA-109718556-4"></script>
+	<script>
+	  window.dataLayer = window.dataLayer || [];
+	  function gtag(){dataLayer.push(arguments);}
+	  gtag('js', new Date());
+
+	  gtag('config', 'UA-109718556-4');
+	</script>
+
+	<meta charset="utf-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<title>{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}</title>
+	<meta name="description" content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description }}{% endif %}">
+    
+    <link rel="stylesheet" type="text/css" href="{{"/assets/css/bootstrap.min.css" }}">
+    <link rel="stylesheet" type="text/css" href="{{ "/assets/css/index.css" }}">
+	<script type="text/javascript" src="{{ "/assets/js/jquery-1.11.1.min.js" }}"></script>
+	<script type="text/javascript" src="{{ "/assets/js/bootstrap.min.js" }}"></script>
+    <link rel="stylesheet" type="text/css" href="/assets/css/monokai_sublime.min.css">
+	<script type="text/javascript" src="/assets/js/highlight.min.js"></script>
+    
+	<script type="text/javascript" src="{{"/assets/js/index.js" }}"></script>
+	<script>hljs.initHighlightingOnLoad();</script>
+</head>

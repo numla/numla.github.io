@@ -1,0 +1,9 @@
+# Site settings
+title: Oseledets group seminars. Skoltech
+email: i.oseledets@skoltech.ru
+description: Weekly seminars of Scientific Computing group at Skoltech
+github_username: numla
+permalink: /:short_year/:title
+
+disqus_shortname: numla
+disqus_url: "http://numla.github.io"

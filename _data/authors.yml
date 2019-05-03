@@ -1,0 +1,48 @@
+# Speakers information
+efrolov:
+  short_name: efrolov
+  name: Evgeny Frolov
+  position: Researcher
+  affilation: Skoltech
+  contact: "mailto:evgeny.frolov@skoltech.ru"
+  picture: "/assets/efrolov.jpg"
+
+eponomarev:
+  short_name: eponomarev
+  name: Evgeny Ponomarev
+  position: PhD student
+  affilation: Skoltech
+  contact: "https://www.linkedin.com/in/evgps/"
+  picture: "/assets/eponomarev.jpg"
+
+ktikhonov:
+  short_name: ktikhonov
+  name: Konstantin Tikhonov
+  position: Researcher
+  affilation: Landau Institute for Theoretical Physics
+  contact: "http://tikhonov.itp.ac.ru/"
+  picture: "/assets/ktikhonov.jpg"
+
+tdaulbaev:
+  short_name: tdaulbaev
+  name: Talgat Daulbaev
+  position: PhD student
+  affilation: Skoltech
+  contact: "mailto:t.daulbaev@skoltech.ru"
+  picture: "/assets/tdaulbaev.jpg"
+
+apetrovskaya:
+  short_name: apetrovskaya
+  name: Anna Petrovskaya
+  position: PhD student
+  affilation: Skoltech
+  contact: "mailto:anna.petrovskaia@skoltech.ru"
+  picture: "/assets/apetrovskaya.jpg"
+
+dmerkulov:
+  short_name: dmerkulov
+  name: Daniil Merkulov
+  position: PhD student
+  affilation: Skoltech
+  contact: "http://merkulov.top"
+  picture: "/assets/dmerkulov.jpg"

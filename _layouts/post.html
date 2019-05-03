@@ -1,0 +1,25 @@
+---
+layout: default
+---
+{% assign author = site.data.authors[page.author] %}
+<div class="row">
+  <div id="myArticle" class="col-sm-9">
+    <div class="post-area post">
+      <header>
+        <h1>{{ page.title }}</h1>
+        <p>{{ page.date | date: "%b %-d, %Y" }}{% for category in page.categories %} • {{category}} {% endfor %}</p>
+
+      </header>
+      <hr>
+      <article>
+        <h1>{{ author.name }}</h1>
+        <p><img src= {{ author.picture }} alt=""></p>
+        <p> <a href={{ page.presentation | replace: " ", "%20"}}> Presentation </p>
+        <p> <a href={{ author.contact }}> Contact author </p>
+        {{content}}
+      </article>
+      <hr>
+    </div>
+	{% include comments.html %}
+  </div> 
+</div>
