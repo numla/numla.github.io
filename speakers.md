@@ -16,7 +16,7 @@ title: Speakers
 					  {% for post in filtered_posts %}
 					    <li><a href="{{ post.url }}">{{ post.title }}</a></li>
 					  {% endfor %}
-				</ul></li><br/>
+				</ul></li><br>
 			  {% endfor %}
 			</ul>
       </article>
