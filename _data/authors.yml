@@ -46,3 +46,11 @@ dmerkulov:
   affilation: Skoltech
   contact: "http://merkulov.top"
   picture: "/assets/dmerkulov.jpg"
+
+sahmadiasl:
+  short_name: sahmadiasl
+  name: Salman Ahmadi-Asl
+  position: Research Scientist
+  affilation: Skoltech
+  contact: "s.asl@skoltech.ru"
+  picture: "/assets/sahmadiasl.jpg"
