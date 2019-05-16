@@ -54,3 +54,11 @@ sahmadiasl:
   affilation: Skoltech
   contact: "mailto:s.asl@skoltech.ru"
   picture: "/assets/sahmadiasl.jpg"
+
+dsushnikova:
+  short_name: dsushnikova
+  name: Daria Sushnikova
+  position: Research Intern
+  affilation: Skoltech
+  contact: "mailto:maranas.daemon@gmail.com"
+  picture: "/assets/dsushnikova.jpg"
