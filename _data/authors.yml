@@ -62,3 +62,11 @@ dsushnikova:
   affilation: Skoltech
   contact: "mailto:maranas.daemon@gmail.com"
   picture: "/assets/dsushnikova.jpg"
+
+govchinnikov:
+  short_name: govchinnikov
+  name: George Ovchinnikov
+  position: Research Scientist
+  affilation: Skoltech
+  contact: "mailto:g.ovchinnikov@skoltech.ru"
+  picture: "/assets/govchinnikov.png"
