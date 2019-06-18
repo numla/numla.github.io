@@ -70,3 +70,11 @@ govchinnikov:
   affilation: Skoltech
   contact: "mailto:g.ovchinnikov@skoltech.ru"
   picture: "/assets/govchinnikov.png"
+
+akatrutsa:
+  short_name: akatrutsa
+  name: Alexandr Katrutsa
+  position: PhD student
+  affilation: Skoltech
+  contact: "mailto:aleksandr.katrutsa@phystech.edu"
+  picture: "/assets/akatrutsa.jpg"
