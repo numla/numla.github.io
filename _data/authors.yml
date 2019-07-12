@@ -86,3 +86,11 @@ dfokina:
   affilation: Skoltech
   contact: "mailto:aleksandr.katrutsa@phystech.edu"
   picture: "/assets/dfokina.jpg"
+
+vpimanov:
+  short_name: vpimanov
+  name: Vlad Fokina
+  position: Research Intern
+  affilation: Skoltech
+  contact: "mailto:vladislav.pimanov@skoltech.ru"
+  picture: "/assets/vpimanov.jpg"
