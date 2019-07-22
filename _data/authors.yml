@@ -94,3 +94,11 @@ vpimanov:
   affilation: Skoltech
   contact: "mailto:vladislav.pimanov@skoltech.ru"
   picture: "/assets/vpimanov.jpg"
+
+sdivakov:
+  short_name: sdivakov
+  name: Sergey Divakov
+  position: MSc graduate
+  affilation: Skoltech
+  contact: "mailto:sergei.divakov@skoltech.ru"
+  picture: "/assets/sdivakov.jpg"
