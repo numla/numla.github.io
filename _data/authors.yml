@@ -102,3 +102,11 @@ sdivakov:
   affilation: Skoltech
   contact: "mailto:sergei.divakov@skoltech.ru"
   picture: "/assets/sdivakov.jpg"
+
+smatveev:
+  short_name: smatveev
+  name: Sergey Matveev
+  position: Researcher
+  affilation: Skoltech
+  contact: "mailto:s.matveev@skoltech.ru"
+  picture: "/assets/smatveev.jpg"
