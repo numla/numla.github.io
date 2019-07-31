@@ -110,3 +110,11 @@ smatveev:
   affilation: Skoltech
   contact: "mailto:s.matveev@skoltech.ru"
   picture: "/assets/smatveev.jpg"
+
+achertkov:
+  short_name: achertkov
+  name: Andrei Chertkov
+  position: PhD student
+  affilation: Skoltech
+  contact: "mailto:andrei.chertkov@skolkovotech.ru"
+  picture: "/assets/achertkov.jpg"
