@@ -118,3 +118,27 @@ achertkov:
   affilation: Skoltech
   contact: "mailto:andrei.chertkov@skolkovotech.ru"
   picture: "/assets/achertkov.jpg"
+
+imatvienko:
+  short_name: imatvienko
+  name: Ivan Matvienko
+  position: MSc student
+  affilation: Skoltech
+  contact: "mailto:ivan.matvienko@skoltech.ru"
+  picture: "/assets/imatvienko.jpg"
+
+ygabuev:
+  short_name: ygabuev
+  name: Yuriy Gabuev
+  position: MSc student
+  affilation: Skoltech
+  contact: "mailto:yuriy.gabuev@skoltech.ru"
+  picture: "/assets/ygabuev.jpg"
+
+jgusak:
+  short_name: jgusak
+  name: Julya Gusak
+  position: Research Scientist
+  affilation: Skoltech
+  contact: "mailto:ivan.matvienko@skoltech.ru"
+  picture: "/assets/jgusak.jpg"
