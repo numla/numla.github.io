@@ -142,3 +142,11 @@ jgusak:
   affilation: Skoltech
   contact: "mailto:y.gusak@skoltech.ru"
   picture: "/assets/jgusak.jpg"
+
+ivorona:
+  short_name: ivorona
+  name: Igor Vorona
+  position: PhD Student
+  affilation: Skoltech
+  contact: "mailto:igor.vorona@skoltech.ru"
+  picture: "/assets/ivorona.jpg"
