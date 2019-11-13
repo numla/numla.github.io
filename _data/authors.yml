@@ -150,3 +150,11 @@ ivorona:
   affilation: Skoltech
   contact: "mailto:igor.vorona@skoltech.ru"
   picture: "/assets/ivorona.jpg"
+
+achashchin:
+  short_name: achashchin
+  name: Artem Chashchin
+  position: Research Intern
+  affilation: Skoltech
+  contact: "mailto:artem.chashchin@skolkovotech.ru"
+  picture: "/assets/achashchin.jpg"
