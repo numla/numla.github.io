@@ -14,8 +14,8 @@ layout: default
       <article>
         <h1>{{ author.name }}</h1>
         <p><img src= {{ author.picture }} alt=""></p>
-        <p> <a href={{ page.presentation | replace: " ", "%20"}}> Presentation </p>
-        <p> <a href={{ author.contact }}> Contact author </p>
+        <p> <a href={{ page.presentation | replace: " ", "%20"}}> Presentation </a></p>
+        <p> <a href={{ author.contact }}> Contact author </a></p>
         {{content}}
       </article>
       <hr>
