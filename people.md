@@ -1,5 +1,6 @@
 ---
 layout: page
+permalink: /people/
 ---
 {% assign n_authors = site.data.authors | size %}
 {% assign i_author = 0 %}
