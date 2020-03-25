@@ -1,9 +1,8 @@
 ---
-layout: post
-
 author: efrolov
 title:  "Temporal Models for Polyadic Events"
-presentation: "/assets/Temporal Models for Polyadic Events.pdf"
-categories: Recommender_Systems Probability
-comments: true
+presentation: "/assets/presentations/Temporal Models for Polyadic Events.pdf"
+tags: 
+  - Recommender Systems
+  - Probability
 ---

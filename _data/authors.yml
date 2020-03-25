@@ -1,168 +1,257 @@
 # Speakers information
+ioseledets:
+  short_name: ioseledets
+  name: Ivan Oseledets
+  position: Full professor
+  affilation: Skoltech
+  links:
+    - title: Mail 
+      url: mailto:i.oseledets@skoltech.ru
+      icon: fas fa-envelope
+    - title: Google Scholar
+      url: https://scholar.google.com/citations?user=5kMqBQEAAAAJ&hl=en
+      icon: ai ai-google-scholar-square
+    - title: Twitter
+      url: https://twitter.com/oseledetsivan
+      icon: fab fa-twitter
+  picture: /assets/pictures/ioseledets.jpg
+
 efrolov:
   short_name: efrolov
   name: Evgeny Frolov
   position: Researcher
   affilation: Skoltech
-  contact: "mailto:evgeny.frolov@skoltech.ru"
-  picture: "/assets/efrolov.jpg"
+  links:
+    - title: Mail  
+      url: mailto:evgeny.frolov@skoltech.ru
+      icon: fas fa-envelope
+  picture: /assets/pictures/efrolov.jpg
 
 eponomarev:
   short_name: eponomarev
   name: Evgeny Ponomarev
   position: PhD student
   affilation: Skoltech
-  contact: "https://www.linkedin.com/in/evgps/"
-  picture: "/assets/eponomarev.jpg"
+  links:
+    - title: Mail  
+      url: https://www.linkedin.com/in/evgps/
+      icon: fas fa-envelope
+  picture: /assets/pictures/eponomarev.jpg
 
 ktikhonov:
   short_name: ktikhonov
   name: Konstantin Tikhonov
   position: Researcher
   affilation: Landau Institute for Theoretical Physics
-  contact: "http://tikhonov.itp.ac.ru/"
-  picture: "/assets/ktikhonov.jpg"
+  links:
+    - title: Mail  
+      url: http://tikhonov.itp.ac.ru/
+      icon: fas fa-envelope
+  picture: /assets/pictures/ktikhonov.jpg
 
 tdaulbaev:
   short_name: tdaulbaev
   name: Talgat Daulbaev
   position: PhD student
   affilation: Skoltech
-  contact: "mailto:t.daulbaev@skoltech.ru"
-  picture: "/assets/tdaulbaev.jpg"
+  links:
+    - title: Mail  
+      url: mailto:t.daulbaev@skoltech.ru
+      icon: fas fa-envelope
+  picture: /assets/pictures/tdaulbaev.jpg
 
 apetrovskaya:
   short_name: apetrovskaya
   name: Anna Petrovskaya
   position: PhD student
   affilation: Skoltech
-  contact: "mailto:anna.petrovskaia@skoltech.ru"
-  picture: "/assets/apetrovskaya.jpg"
+  links:
+    - title: Mail  
+      url: mailto:anna.petrovskaia@skoltech.ru
+      icon: fas fa-envelope
+  picture: /assets/pictures/apetrovskaya.jpg
 
 dmerkulov:
   short_name: dmerkulov
   name: Daniil Merkulov
   position: PhD student
   affilation: Skoltech
-  contact: "http://merkulov.top"
-  picture: "/assets/dmerkulov.jpg"
+  links:
+    - title: Homepage
+      url: https://merkulov.top
+      icon: fas fa-home
+    - title: Mail 
+      url: mailto:daniil.merkulov@skolkovotech.ru
+      icon: fas fa-envelope
+    - title: Google Scholar
+      url: https://scholar.google.com/citations?user=BkxI36gAAAAJ&hl=en
+      icon: ai ai-google-scholar-square
+    - title: Twitter
+      url: https://twitter.com/danya_merkulov
+      icon: fab fa-twitter
+  picture: /assets/pictures/dmerkulov.jpg
 
 sahmadiasl:
   short_name: sahmadiasl
   name: Salman Ahmadi-Asl
   position: Research Scientist
   affilation: Skoltech
-  contact: "mailto:s.asl@skoltech.ru"
-  picture: "/assets/sahmadiasl.jpg"
+  links:
+    - title: Mail  
+      url: mailto:s.asl@skoltech.ru
+      icon: fas fa-envelope
+  picture: /assets/pictures/sahmadiasl.jpg
 
 dsushnikova:
   short_name: dsushnikova
   name: Daria Sushnikova
   position: Research Intern
   affilation: Skoltech
-  contact: "mailto:maranas.daemon@gmail.com"
-  picture: "/assets/dsushnikova.jpg"
+  links:
+    - title: Mail  
+      url: mailto:maranas.daemon@gmail.com
+      icon: fas fa-envelope
+  picture: /assets/pictures/dsushnikova.jpg
 
 govchinnikov:
   short_name: govchinnikov
   name: George Ovchinnikov
   position: Research Scientist
   affilation: Skoltech
-  contact: "mailto:g.ovchinnikov@skoltech.ru"
-  picture: "/assets/govchinnikov.png"
+  links:
+    - title: Mail  
+      url: mailto:g.ovchinnikov@skoltech.ru
+      icon: fas fa-envelope
+  picture: /assets/pictures/govchinnikov.png
 
 akatrutsa:
   short_name: akatrutsa
   name: Alexandr Katrutsa
   position: PhD student
   affilation: Skoltech
-  contact: "mailto:aleksandr.katrutsa@phystech.edu"
-  picture: "/assets/akatrutsa.jpg"
+  links:
+    - title: Mail  
+      url: mailto:aleksandr.katrutsa@phystech.edu
+      icon: fas fa-envelope
+  picture: /assets/pictures/akatrutsa.jpg
 
 dfokina:
   short_name: dfokina
   name: Daria Fokina
   position: Research Intern
   affilation: Skoltech
-  contact: "mailto:aleksandr.katrutsa@phystech.edu"
-  picture: "/assets/dfokina.jpg"
+  links:
+    - title: Mail  
+      url: mailto:aleksandr.katrutsa@phystech.edu
+      icon: fas fa-envelope
+  picture: /assets/pictures/dfokina.jpg
 
 vpimanov:
   short_name: vpimanov
   name: Vlad Pimanov
   position: Research Intern
   affilation: Skoltech
-  contact: "mailto:vladislav.pimanov@skoltech.ru"
-  picture: "/assets/vpimanov.jpg"
+  links:
+    - title: Mail  
+      url: mailto:vladislav.pimanov@skoltech.ru
+      icon: fas fa-envelope
+  picture: /assets/pictures/vpimanov.jpg
 
 sdivakov:
   short_name: sdivakov
   name: Sergey Divakov
   position: MSc graduate
   affilation: Skoltech
-  contact: "mailto:sergei.divakov@skoltech.ru"
-  picture: "/assets/sdivakov.jpg"
+  links:
+    - title: Mail  
+      url: mailto:sergei.divakov@skoltech.ru
+      icon: fas fa-envelope
+  picture: /assets/pictures/sdivakov.jpg
 
 smatveev:
   short_name: smatveev
   name: Sergey Matveev
   position: Researcher
   affilation: Skoltech
-  contact: "mailto:s.matveev@skoltech.ru"
-  picture: "/assets/smatveev.jpg"
+  links:
+    - title: Mail  
+      url: mailto:s.matveev@skoltech.ru
+      icon: fas fa-envelope
+  picture: /assets/pictures/smatveev.jpg
 
 achertkov:
   short_name: achertkov
   name: Andrei Chertkov
   position: PhD student
   affilation: Skoltech
-  contact: "mailto:andrei.chertkov@skolkovotech.ru"
-  picture: "/assets/achertkov.jpg"
+  links:
+    - title: Mail  
+      url: mailto:andrei.chertkov@skolkovotech.ru
+      icon: fas fa-envelope
+  picture: /assets/pictures/achertkov.jpg
 
 imatvienko:
   short_name: imatvienko
   name: Ivan Matvienko
   position: MSc student
   affilation: Skoltech
-  contact: "mailto:ivan.matvienko@skoltech.ru"
-  picture: "/assets/imatvienko.jpg"
+  links:
+    - title: Mail  
+      url: mailto:ivan.matvienko@skoltech.ru
+      icon: fas fa-envelope
+  picture: /assets/pictures/imatvienko.jpg
 
 ygabuev:
   short_name: ygabuev
   name: Yuriy Gabuev
   position: MSc student
   affilation: Skoltech
-  contact: "mailto:yuriy.gabuev@skoltech.ru"
-  picture: "/assets/ygabuev.jpg"
+  links:
+    - title: Mail  
+      url: mailto:yuriy.gabuev@skoltech.ru
+      icon: fas fa-envelope
+  picture: /assets/pictures/ygabuev.jpg
 
 jgusak:
   short_name: jgusak
   name: Julia Gusak
   position: Research Scientist
   affilation: Skoltech
-  contact: "mailto:y.gusak@skoltech.ru"
-  picture: "/assets/jgusak.jpg"
+  links:
+    - title: Mail  
+      url: mailto:y.gusak@skoltech.ru
+      icon: fas fa-envelope
+  picture: /assets/pictures/jgusak.jpg
 
 ivorona:
   short_name: ivorona
   name: Igor Vorona
   position: PhD Student
   affilation: Skoltech
-  contact: "mailto:igor.vorona@skoltech.ru"
-  picture: "/assets/ivorona.jpg"
+  links:
+    - title: Mail  
+      url: mailto:igor.vorona@skoltech.ru
+      icon: fas fa-envelope
+  picture: /assets/pictures/ivorona.jpg
 
 achashchin:
   short_name: achashchin
   name: Artem Chashchin
   position: Research Intern
   affilation: Skoltech
-  contact: "mailto:artem.chashchin@skolkovotech.ru"
-  picture: "/assets/achashchin.jpg"
+  links:
+    - title: Mail  
+      url: mailto:artem.chashchin@skolkovotech.ru
+      icon: fas fa-envelope
+  picture: /assets/pictures/achashchin.jpg
 
 lmirvakhabova:
   short_name: lmirvakhabova
   name: Leyla Mirvakhabova
   position: PhD student
   affilation: Skoltech
-  contact: "mailto:leyla.mirvakhabova@skoltech.ru"
-  picture: "/assets/lmirvakhabova.jpg"
+  links:
+    - title: Mail  
+      url: mailto:leyla.mirvakhabova@skoltech.ru
+      icon: fas fa-envelope
+  picture: /assets/pictures/lmirvakhabova.jpg
