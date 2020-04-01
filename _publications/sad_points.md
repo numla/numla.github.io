@@ -7,6 +7,6 @@ authors:
   - ioseledets
 image: 
   path: /images/ResNet_CIFAR10.svg
-bibtex: https://scholar.googleusercontent.com/citations?view_op=export_citations&user=BkxI36gAAAAJ&citsig=AMD79ooAAAAAXnzy5VXXkG_GtNBUNyfB8v1C2V9CMPgo&hl=en
+bibtex: https://link.springer.com/article/10.1134/S1064226919120118#citeasMPgo&hl=en
 arxiv: https://arxiv.org/abs/1906.06295
 ---
