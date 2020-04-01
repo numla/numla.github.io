@@ -1,7 +1,10 @@
 # Oseledets group website
 
+The template of the site was taken from [so simple template](https://github.com/mmistakes/so-simple-theme) and slightly modified.
+
 # Contributing
 
+You can contribute by making a pull request. If you don't
 ## Add an author
 
 In order to add author/speker to the site you need to modify file `/_data/authors.yml`. 
